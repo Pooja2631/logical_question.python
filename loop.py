@@ -1,5 +1,5 @@
 num1=int(input("enter the number"))
-num2=int(input("entercthe number"))
+num2=int(input("enter the number"))
 if num1>num2:
 	m=num1
 else:
